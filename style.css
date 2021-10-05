@@ -1,0 +1,23 @@
+.footer{
+color:(7,7,78);
+  position: fixed;
+  bottom:0;
+}
+
+#oo{
+
+letter-spacing: 2px;
+
+font-size: 12px;
+
+font-weight: bold;
+}
+
+#o_o{
+    background: rgb(172, 255, 214);
+    color:rgb(0, 2, 29);
+}
+
+body{
+    background-color: rgb(157, 244, 255);
+}
